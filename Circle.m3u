@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
-http://15.1.5.22:8082/RTV/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Ntv/index.m3u8
