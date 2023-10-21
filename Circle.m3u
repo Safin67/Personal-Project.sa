@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/0/0c/%E0%A6%8F%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%29.svg/150px-%E0%A6%8F%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%29.svg.png" group-title="Bangla", NTV
+http://15.1.5.14:8082/Ntv/tracks-v1a1/mono.m3u8
